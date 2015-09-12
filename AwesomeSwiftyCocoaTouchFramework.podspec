@@ -18,6 +18,4 @@ Pod::Spec.new do |s|
     s.frameworks = "UIKit", "Foundation", "XCTest"
 
     s.source_files = "AwesomeSwiftyCocoaTouchFramework/**/*.{swift}"
-
-    s.resources = "AwesomeSwiftyCocoaTouchFramework/**/*.{png,jpeg,jpg,storyboard,xib}"
 end
